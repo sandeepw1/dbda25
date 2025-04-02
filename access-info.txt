@@ -1,0 +1,6 @@
+database srv
+username - databse1
+password - P@ssword1
+
+
+
